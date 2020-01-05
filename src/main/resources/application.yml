@@ -1,0 +1,15 @@
+spring :
+    profiles :
+        active : dev
+    application :
+        name : micro-service-demo
+
+micro-service-demo :
+    swagger :
+        contact :
+            principalName : 王培嘉
+            url : http://www.nightpower.com
+            email : jollyja@gmail.com
+        description : this is a micro service demo
+        groupName : micro-service-group
+            
